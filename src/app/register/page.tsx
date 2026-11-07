@@ -1,0 +1,1 @@
+export default function Register(){return <main style={{padding:40,maxWidth:500,margin:'auto'}}><h1>Join ChargeShare</h1><p>Driver and host registration screen placeholder for the MVP scaffold.</p><a href='/'>← Home</a></main>}

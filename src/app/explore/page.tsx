@@ -1,0 +1,1 @@
+export default function Explore(){return <main style={{padding:40}}><h1>Explore Chargers</h1><p>Charger browse API: <code>/api/chargers</code>. Map provider integration requires a Google Maps key.</p><a href='/'>← Home</a></main>}
